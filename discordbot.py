@@ -3,7 +3,7 @@ import os
 import traceback
 
 bot = commands.Bot(command_prefix='/')
-token = os.environ['DISCORD_BOT_TOKEN']
+token = os.environ['NjM4MzQ2OTU3NTM4MDY2NDMy.XbbqyQ.mnn9s4EHTfywzalI02PxqDu-tWk']
 
 
 @bot.event
